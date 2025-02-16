@@ -4,7 +4,7 @@ This is the README for the VS Code `tiger-abrodi-blog-search` extension.
 
 ## Features
 
-This extension allows you to search Tiger Abrodi's Blog using the VS Code command palette and open the links in the browser.
+This extension allows you to search Tiger Abrodi's Blog using the VS Code command palette and open the links in the web browser.
 
 To use the extension:
 
