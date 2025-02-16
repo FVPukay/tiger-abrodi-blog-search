@@ -9,7 +9,6 @@ This extension allows you to search Tiger Abrodi's Blog using the VS Code comman
 To use the extension:
 
 Open the command palette, type "Search Lead Kindly", press Enter
-    * On a Mac, the command palette can be accessed with cmd+shift+p.  On a Windows machine, you can use ctrl+shift+p.
 
 ## Requirements
 
